@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Profile AI</string>
+    <string name="dialog_ok">OK</string>
+
+    <string name="edit_title">Editar datos de usuario</string>
+
+    <string name="error_apps_no_resolve">No se econtró una app compatible</string>
+
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_website">Sitio web</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_location">Ubicación</string>
+    <string name="hint_latitude">Latitúd</string>
+    <string name="hint_longitude">Longitúd</string>
+
+    <string name="profile_settings">Abrir configuración</string>
+    <string name="profile_show_map">Ver en el mapa</string>
+
+    <string name="permission_msg_warning">Por favor concede los permisos necesarios para funcionar.</string>
+
+    <string name="settings_title">Configuración</string>
+    <string name="settings_touch_title">Touch</string>
+    <string name="settings_enable_clicks">Habilitar clicks</string>
+    <string name="settings_data_title">Datos</string>
+    <string name="settings_delete_data">Eliminar datos del usuario</string>
+    <string name="settings_restore_settings">Restaurar configuraciones</string>
+    <string name="settings_restore_all">Restaurar datos y configuraciones</string>
+    <string name="settings_img_size_small">Chica</string>
+    <string name="settings_img_size_medium">Mediana</string>
+    <string name="settings_img_size_large">Grande</string>
+    <string name="settings_ui_title">Interfaz</string>
+    <string name="settings_ui_img_size">Tamaño de la imagen</string>
+
+    <string name="scanner_add_button">Añadir</string>
+    <string name="scanner_stop">Detener Escaner</string>
+    <string name="scanner_start">Cámara Inteligente</string>
+    <string name="string_title_chooser">Selecciona la App:</string>
+</resources>
