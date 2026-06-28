@@ -148,6 +148,11 @@ También puedes abrir el proyecto directamente en **Android Studio** y ejecutarl
 
 ---
 
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/7762c435-e57e-4f43-92d5-959f3f000d84" />
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/3d299cd1-eb02-40d9-ace8-39ecebafac75" />
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/33916624-5976-499e-ae50-cb78adc3485b" />
+<img width="714" height="1599" alt="image" src="https://github.com/user-attachments/assets/642232cd-229f-4d11-bb4c-56fdc93a46d2" />
+
 ## 📄 Licencia
 
 Este proyecto se distribuye **únicamente con fines educativos y de aprendizaje**.
